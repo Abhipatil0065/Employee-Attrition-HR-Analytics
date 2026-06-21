@@ -34,4 +34,4 @@ Among job roles, Research Scientists and Laboratory Technicians show the largest
 The overall 16% attrition rate signals a need for structured engagement and compensation review programs.
 
 
-![Dashboard priview]()
+![Dashboard priview](https://github.com/Abhipatil0065/Employee-Attrition-HR-Analytics/blob/main/HR_Analytics_Dashboard.PNG)
